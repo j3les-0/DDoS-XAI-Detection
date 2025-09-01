@@ -51,7 +51,7 @@ Main libraries:
 2. Ensure runtime is set to **Python 3**.  
 
 3. Execute the cells in order to:  
-   - Load or generate the dataset  
+   - Load the dataset 
    - Train and evaluate ML models  
    - Visualize results and explanations with LIME  
 
