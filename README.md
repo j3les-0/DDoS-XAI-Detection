@@ -4,7 +4,7 @@
 
 This repository contains the code and experiments associated with the article **“Explainable Artificial Intelligence for DDoS Detection in Next-Generation Networks”**.  
 
-The work investigates the use of **Explainable Artificial Intelligence (XAI)** techniques applied to the **detection of Distributed Denial of Service (DDoS) attacks**, with a focus on scenarios such as **5G, SDN, and Open RAN networks**.  
+The work investigates the use of **Explainable Artificial Intelligence (XAI)** techniques applied to the **detection of Distributed Denial of Service (DDoS) attacks**, with a focus on **5G networks**.  
 
 The experiments were designed to be executed in **Google Colab**, requiring minimal setup effort.  
 
@@ -23,8 +23,6 @@ The experiments were designed to be executed in **Google Colab**, requiring mini
 ```
 .
 ├── XAI_DDoS.ipynb     # Main notebook with experiments
-├── data/              # (optional) Datasets used
-├── results/           # Outputs (plots, metrics, explanations)
 └── README.md          # Project documentation
 ```
 
@@ -40,10 +38,6 @@ Main libraries:
 - matplotlib, seaborn  
 - lime  
 
-If running locally, install dependencies with:
-
-```bash
-pip install -r requirements.txt
 ```
 
 ---
