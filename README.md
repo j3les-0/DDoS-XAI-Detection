@@ -30,6 +30,8 @@ The experiments were designed to be executed in **Google Colab**, requiring mini
 
 ## Environment and Dependencies
 
+```
+
 This project is intended to be executed in **Google Colab**.  
 Most dependencies can be installed directly within the notebook.  
 
@@ -44,6 +46,7 @@ Main libraries:
 
 ## Running the Experiments in Google Colab
 
+```
 1. Open the notebook in Google Colab:  
    - Upload `XAI_DDoS.ipynb` to your Google Drive.  
    - Right-click the file → Open with → Google Colaboratory.  
@@ -53,35 +56,44 @@ Main libraries:
 3. Execute the cells in order to:  
    - Load the dataset 
    - Train and evaluate ML models  
-   - Visualize results and explanations with LIME  
+   - Visualize results and explanations with LIME
+
+```
 
 ---
 
 ## Results
 
+```
 The experiments include:  
 - Comparative evaluation of classifiers for DDoS detection.  
 - Metrics: **Accuracy, Precision, Recall, F1-Score, Specificity**.  
 - Confusion matrices and visualization of model performance.  
 - Interpretability analysis with **LIME**, highlighting the most relevant features influencing predictions.  
+```
 
 ---
 
 ## Scientific Contributions
 
+```
 - Demonstrates the applicability of **XAI to cybersecurity**, improving model transparency.  
 - Provides a critical discussion on model interpretability in network traffic scenarios.  
 - Proposes a **reproducible experimental pipeline** for researchers, easily accessible via Google Colab.  
-
+```
 ---
 
 ## References
 
+```
 - Ribeiro, M. T., Singh, S., & Guestrin, C. (2016). *“Why Should I Trust You?”: Explaining the Predictions of Any Classifier (LIME)*. KDD.  
 - Official docs: [LIME](https://github.com/marcotcr/lime)  
+```
 
 ---
 
 ## License
 
+```
 This project is released under the **MIT License**. See the `LICENSE` file for details.  
+```
