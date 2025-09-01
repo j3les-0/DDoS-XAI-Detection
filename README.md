@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/XAI_DDoS/blob/main/XAI_DDoS.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/j3les-0/DDoS-XAI-Detection/blob/main/XAI_DDoS.ipynb)
 
 # XAI_DDoS – Explainable AI for DDoS Detection
 
